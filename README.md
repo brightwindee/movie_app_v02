@@ -1,3 +1,3 @@
-# Movie Test App 
+# Movie App 2020
 
-React JS 
+React JS Fundamentals Course 2020
